@@ -21,7 +21,6 @@ for name in files:
 print("Successfully deployed!")
 print("By MaheshChauhan • DroneBots")
 
-main()
 app = Flask(__name__)
 api = Api(app)
 
