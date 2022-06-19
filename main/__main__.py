@@ -20,5 +20,4 @@ print("Successfully deployed!")
 print("By MaheshChauhan • DroneBots")
 
 if __name__ == '__main__':
-    bot.run('0.0.0.0','8080')
     bot.run_until_disconnected()
